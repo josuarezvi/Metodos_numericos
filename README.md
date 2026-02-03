@@ -1,2 +1,1 @@
-# Métodos numéricos - UNAL 2026-01
-## Joel Suárez
+## Joel Suárez - Ingeniería de Sistemas y Computación
